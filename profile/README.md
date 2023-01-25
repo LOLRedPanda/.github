@@ -1,4 +1,4 @@
-![Logo-1](../images/coverPhoto.png)
+![coverPhoto](../images/coverPhoto.png)
 
 
 <h1 align='center'> League of Legends Stat Companion</h1>
