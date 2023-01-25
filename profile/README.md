@@ -1,6 +1,10 @@
-## Hi there 👋
+![Logo-1](../images/coverPhoto.png)
 
-<!--
+
+<h1 align='center'> League of Legends Stat Companion</h1>
+
+## Intro
+RedPanda is your League of Legends stat companion. Keep track of your league and team stats in real time. Share your stats with your team and the world.
 
 **Here are some ideas to get you started:**
 
