@@ -1,4 +1,4 @@
-![coverPhoto](../images/coverPhoto.png)
+![coverPhoto](![alt text](https://github.com/LOLRedPanda/.github/blob/main/images/coverPhoto.png?raw=true)
 
 
 <h1 align='center'> League of Legends Stat Companion</h1>
