@@ -13,6 +13,7 @@ Our [core app](https://github.com/LOLRedPanda/app-core) and [documentation]() ar
 Are you interest in contributing to our open source project? Yes? Okay, you rock! 🎸 We can help you get started! Open source software is made by people just like you. Learn more about [how to contribute]().
 
 ## 👩‍💻 Useful Resources
+- [Code of Conduct](../docs/CODE_OF_CONDUCT.md)
 
 ## 🍿 Fun Facts
 
