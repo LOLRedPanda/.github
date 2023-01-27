@@ -19,8 +19,8 @@ Are you interest in contributing to our open source project? Yes? Okay, you rock
 
 ## 💬 Contact 
 - [Discord](https://discord.gg/j2BttbAc)
-    - `#general` for those using Docusaurus.
-    - `#contributors` for those wanting to contribute to the Docusaurus core.
+    - `#general` for those using RedPanda.
+    - `#contributors` for those wanting to contribute to the RedPanda core.
 
 ## ⚖️ Legal 
 
